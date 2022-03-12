@@ -7,4 +7,7 @@ Among the methods, the highest accuracy was obtained with Random Forest Classifi
 
 ![success_metrics](https://user-images.githubusercontent.com/57035819/158009535-de8da17f-b60b-4a35-93b7-1b5d306b2869.png)
 
+Note: This project was completed for internship to satisfy requirements. Hence, this study should not be evaluated as a high level and comprehensive work.
 
+### Project Owner and Author
+- [honourrable](https://github.com/honourrable)
