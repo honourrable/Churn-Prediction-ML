@@ -1,5 +1,5 @@
 # Churn-Prediction-ML
-Churn rate prediciton (binary classification) with Machine Learning algorithms and Grid Search. In this study, some of popular algorithms were used to predict churn by using Telco Customer Churn tabular dataset. The link is provided below:
+Churn rate prediciton (binary classification) with Machine Learning algorithms and Grid Search. In this study, some of popular algorithms were used to predict churn by using Telco Customer Churn tabular dataset. The link was provided below:
 
 https://www.kaggle.com/blastchar/telco-customer-churn
 
